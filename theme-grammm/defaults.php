@@ -25,7 +25,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getBaseUrl() {
-		return 'https://grammm.com';
+		return 'https://grommunio.com';
 	}
 
 	/**
@@ -33,7 +33,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getSyncClientUrl() {
-		return 'https://grammm.com/downloads';
+		return 'https://grommunio.com/downloads';
 	}
 
 	/**
@@ -41,7 +41,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getiOSClientUrl() {
-		return 'https://itunes.apple.com/us/app/grammm/id543672169?mt=8';
+		return 'https://itunes.apple.com/us/app/grommunio/id543672169?mt=8';
 	}
 
 	/**
@@ -57,7 +57,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getAndroidClientUrl() {
-		return 'https://play.google.com/store/apps/details?id=com.grammmfiles.android';
+		return 'https://play.google.com/store/apps/details?id=com.grommuniofiles.android';
 	}
 
 	/**
@@ -65,7 +65,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getDocBaseUrl() {
-		return 'https://docs.grammm.com/files';
+		return 'https://docs.grommunio.com/files';
 	}
 
 	/**
@@ -73,7 +73,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getTitle() {
-		return 'grammm Files | groupware and much, much more';
+		return 'grommunio Files | groupware and much, much more';
 	}
 
 	/**
@@ -81,7 +81,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getName() {
-		return 'grammm Files';
+		return 'grommunio Files';
 	}
 
 	/**
@@ -89,7 +89,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getHTMLName() {
-		return '<b>grammm</b> Files';
+		return '<b>grommunio</b> Files';
 	}
 
 	/**
@@ -97,7 +97,7 @@ class OC_Theme {
 	 * @return string entity name
 	 */
 	public function getEntity() {
-		return 'grammm';
+		return 'grommunio';
 	}
 
 	/**
@@ -105,7 +105,7 @@ class OC_Theme {
 	 * @return string slogan
 	 */
 	public function getSlogan() {
-		return 'grammm Files | groupware and much, much more';
+		return 'grommunio Files | groupware and much, much more';
 	}
 
 	/**
