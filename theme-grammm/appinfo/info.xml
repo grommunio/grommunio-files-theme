@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <info>
-	<id>theme-grammm</id>
-	<name>theme-grammm</name>
-	<description>This App provides the grammm theme.</description>
+	<id>theme-grommunio</id>
+	<name>theme-grommunio</name>
+	<description>This App provides the grommunio theme.</description>
 	<licence>AGPL</licence>
 	<author>Philipp Schaffrath</author>
 	<version>1.0.0</version>
@@ -12,5 +12,5 @@
 	<dependencies>
 		<owncloud min-version="10.2" max-version="10" />
 	</dependencies>
-	<namespace>theme-grammm</namespace>
+	<namespace>theme-grommunio</namespace>
 </info>
