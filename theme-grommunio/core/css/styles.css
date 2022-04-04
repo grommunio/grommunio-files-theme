@@ -149,3 +149,10 @@ input#user, input#password {
 #body-login p.info a {
     color: #3f3f3f;
 }
+#remember_login {
+    position: relative;
+    left: -100px;
+    top: 25px;
+    height:20px;
+    overflow: hidden;
+}
