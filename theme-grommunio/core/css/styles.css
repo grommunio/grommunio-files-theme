@@ -97,6 +97,7 @@ input#user, input#password {
 /* use logos from theme */
 #header .logo {
 	background-image: url('../img/logo.svg');
+	background-size: 80%;
 	border-radius: 10px 10px 0 0;
 	width: 280px !important;
 	height: 70px !important;
