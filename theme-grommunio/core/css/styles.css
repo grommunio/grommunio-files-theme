@@ -156,3 +156,15 @@ input#user, input#password {
     height:20px;
     overflow: hidden;
 }
+
+#body-login .warning, #body-login .update, #body-login .error {
+	display: block;
+	padding: 10px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 3px;
+	cursor: default;
+	margin-bottom: 1rem;
+	background-color: rgba(255, 255, 255, 0.85) !important;
+}
