@@ -99,7 +99,7 @@ input#user, input#password {
 	background-image: url('../img/logo.svg');
 	background-size: 80%;
 	border-radius: 10px 10px 0 0;
-	width: 280px !important;
+	width: initial !important;
 	height: 70px !important;
 	background-color: rgba(255, 255, 255, 0.85) !important;
 	margin: 0 !important;
@@ -167,4 +167,11 @@ input#user, input#password {
 	cursor: default;
 	margin-bottom: 1rem;
 	background-color: rgba(255, 255, 255, 0.85) !important;
+	border-radius: 0px 0px 5px 5px;
+	border: 1px solid #cccccc;
+  border-top: 0;
+}
+
+.warning legend, .warning a, .error a {
+	color: #2dcaff !important;
 }
